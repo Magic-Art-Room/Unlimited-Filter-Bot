@@ -52,13 +52,14 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>🤖 My Name :</b> <a href='https://t.me/ArkSuperFilter_Bot'>Super Mario</a> 
- 
+    ABOUT_MSG = """<b>🤖 My Name :</b> <a href='https://t.me/ArkSuperFilter_Bot'>Super Mario</a> 
 
-⭕️<b>Creater :</b> @ARKBotz
+<b>📢 Updates Channel :</b> @ARKBotz
 
-⭕️<b>Language :</b> <code>Python3</code>
+<b>📝 Language :</b> <a href='https://www.python.org'>Python3</a> 
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+<b>📚 Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+
+<b>🧑‍🦱 Developer :</b> <a href='tg://settings'>All Contributors</a> 
 
 """
