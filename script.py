@@ -52,7 +52,8 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : TroJanz Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>🤖 My Name :</b> <a href='https://t.me/ArkSuperFilter_Bot'>Super Mario</a> 
+ 
 
 ⭕️<b>Creater :</b> @ARKBotz
 
