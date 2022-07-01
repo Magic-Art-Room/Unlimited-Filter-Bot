@@ -246,6 +246,9 @@ async def help(client, message):
                     InlineKeyboardButton("About Me", callback_data="about_data"),
                     InlineKeyboardButton("CLOSE", callback_data="close_data")
                 ],
+                [
+                    InlineKeyboardButton("Updates", url="https://t.me/ArkBotz")
+                ]
             ]
         ),
         reply_to_message_id=message.message_id
